@@ -45,10 +45,7 @@ a {
 .contacts {
   font-style: normal;
 }
-.contacts-list {
-}
-.contacts-item {
-}
+
 .contacts-link {
   font-weight: 400;
   font-size: 16px;
@@ -59,8 +56,8 @@ a {
   color: #434455;
 }
 
-.navigation-link:hover,
-.navigation-link:focus,
+.header-navigation-link:hover,
+.header-navigation-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
@@ -94,14 +91,6 @@ a {
 
 /*--------- Features section ---------*/
 
-.features-section {
-}
-.features-title {
-}
-.features-list {
-}
-.features-item {
-}
 .features-subtitle {
   font-weight: 500;
   font-size: 20px;
@@ -135,15 +124,13 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.team-list {
-}
+
 .team-item {
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   background: #fff;
 }
-.team-photo {
-}
+
 .team-name {
   font-weight: 500;
   font-size: 20px;
@@ -167,8 +154,6 @@ a {
 
 /*--------- Portfolio section ---------*/
 
-.portfolio-section {
-}
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -179,13 +164,11 @@ a {
   text-align: center;
   color: #2e2f42;
 }
-.portfolio-list {
-}
+
 .portfolio-item {
   background: #fff;
 }
-.portfolio-image {
-}
+
 .portfolio-name {
   font-weight: 500;
   font-size: 20px;
